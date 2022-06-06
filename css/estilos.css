@@ -423,5 +423,16 @@ footer{
         
     }
 }
+@media screen and (max-width: 952px){
+    .contenedor_about {
+   
+    font-size: 20px;
+    display: flex;
+         flex-direction: column;
+    justify-content: center;
+  
+    
+}
+}
     
 
