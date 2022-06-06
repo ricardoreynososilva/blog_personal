@@ -316,13 +316,13 @@ h2 {
     
 
 .card img:hover{
-    filter: opacity(0.6);
-    transform: translate(10px, 69%);
-    -webkit-transform: translate(10px, 69%);
-    -moz-transform: translate(10px, 69%);
-    -ms-transform: translate(10px, 69%);
-    -o-transform: translate(10px, 69%);
-    -webkit-filter: opacity(0.6);
+    filter: opacity(0.2);
+    transform: translate(10px, 10px 69%);
+    -webkit-transform: translate(10px, 10px 69%);
+    -moz-transform: translate(10px, 10px 69%);
+    -ms-transform: translate(10px, 10px 69%);
+    -o-transform: translate(10px, 10px 69%);
+    -webkit-filter: opacity(0.2);
 }
 .card p{
     position: absolute;
