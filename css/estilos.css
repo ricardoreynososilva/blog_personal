@@ -413,7 +413,7 @@ footer{
 
     
 }
-@media screen   and (max-width: 858px) {
+@media screen   and (max-width: 952px) {
     .contenedor_portafolio{
    
         display: flex;
